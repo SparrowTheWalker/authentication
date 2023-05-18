@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531293689245",
+    "project_id": "signup-login-890ac",
+    "storage_bucket": "signup-login-890ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531293689245:android:c53a8a863519debdd7cb74",
+        "android_client_info": {
+          "package_name": "com.sparrow.authentication_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531293689245-p9944ju4v0e96hniucelvv9et0qien0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClge7UrvA_67cIEmhQeZ26r7G_W6SL7yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531293689245-p9944ju4v0e96hniucelvv9et0qien0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
